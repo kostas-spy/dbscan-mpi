@@ -1,3 +1,4 @@
+//Kostas Spyropoulos - George Panou - University of Piraeus - 2019
 /*2-axis DBSCAN Code with MPI*/
 
 //Defines and includes
